@@ -1,7 +1,7 @@
 # Online-Examination-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224040093
+# Name: GUNASUNDARI B
+# Date: 19/11/2026
 
 
 # AIM:
@@ -37,6 +37,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="405" height="663" alt="exp 6 case drawio" src="https://github.com/user-attachments/assets/547647c3-3d3b-4ffd-9e3c-0eeaf91848a0" />
 
 
 
@@ -57,6 +58,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="741" height="962" alt="exp 2 class drawio" src="https://github.com/user-attachments/assets/433ba021-f2de-4ccf-ac36-e6add0166df5" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -65,6 +67,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="997" height="295" alt="exp 2 communication drawio" src="https://github.com/user-attachments/assets/238eaba4-2b11-4af1-9bf4-bc9f3fc085ab" />
 
 
 
@@ -77,6 +80,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="1380" height="490" alt="exp 2 package drawio" src="https://github.com/user-attachments/assets/8508ccc1-9788-488c-9971-92fba9037587" />
 
 
 
@@ -95,6 +99,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="409" height="1364" alt="exp 2 activity drawio" src="https://github.com/user-attachments/assets/816fe9a2-9800-40ea-a43a-e5b828dcb57a" />
 
 
 
@@ -116,6 +121,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="666" height="786" alt="exp 2 sequence drawio" src="https://github.com/user-attachments/assets/f269cad7-f1d7-4d01-88a4-ffcf0f8f7f50" />
 
 
 
@@ -124,4 +130,6 @@ Plan and understand the detailed functionality of an existing or future scenario
 # RESULT
 
 Thus the project to develop Online Examination system was developed using Star UML Software is done successfully.
+
+
 
